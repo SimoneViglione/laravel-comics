@@ -1,2 +1,40 @@
 @import '~bootstrap/scss/bootstrap';
 
+main {
+    background-color: rgb(28, 28, 28);
+}
+
+.ms_blue_banner_header {
+    height: 30px;
+    background-color: rgb(2, 131, 251);
+}
+
+.ms_navbar {
+    height: 80px;
+}
+
+.ms_logo {
+    height: 70%;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.jumbotron {
+    height: 300px;
+   overflow-y: hidden;
+}
+
+.jumbotron_img {
+    width: 100%;
+}
+
+

@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1> home </h1>
 
     <div class="row">
         @foreach($comics as $comic)
