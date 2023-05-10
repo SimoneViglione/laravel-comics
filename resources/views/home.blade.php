@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="row">
+    <div class="row pt-3">
         @foreach($comics as $comic)
             <div class="d-flex col-2 mb-4">
                 <div class="card" style="width: 18rem;">
